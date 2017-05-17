@@ -21,3 +21,5 @@ console.log("After sorted : [ "+ x.join(", ")+" ]");
 //Sorry I am a Javascript noob who want to conquer to algorithms and programming 
 //follow me for more tips and tricks
 //train your array skill everyday, array is trickiest villain in the world
+
+//I will update with bubble sort
